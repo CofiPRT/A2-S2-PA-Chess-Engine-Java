@@ -1,0 +1,83 @@
+[ENGINE] Initializing engine
+[ENGINE] Received input: xboard
+[ENGINE] Received input: protover
+[ENGINE] Offering parameters
+[ENGINE] Received input: new
+[GAME] New game created
+[ENGINE] Received input: force
+[GAME] Force mode engaged
+[ENGINE] Received input: d2d3
+[PLAYER] Registering move: d2d3
+[PLAYER] Attempting to move
+[ENGINE] Received input: black
+[GAME] Color update: black
+[PLAYER] Attempting to move
+[ENGINE] Received input: go
+[GAME] Force mode disengaged
+[PLAYER] Attempting to move
+[PLAYER] Search depth: 1
+[PLAYER] Current depth: 1
+[PLAYER] Testing move: b8a6
+[PLAYER] Current depth: 0
+[PLAYER] Move b8a6 has score -0.31929839909019325
+[PLAYER] Testing move: b8c6
+[PLAYER] Current depth: 0
+[PLAYER] Move b8c6 has score -0.26881746031746034
+[PLAYER] Testing move: g8f6
+[PLAYER] Current depth: 0
+[PLAYER] Move g8f6 has score -0.2968512071035666
+[PLAYER] Testing move: g8h6
+[PLAYER] Current depth: 0
+[PLAYER] Move g8h6 has score -0.3007380777967239
+[PLAYER] Testing move: a7a6
+[PLAYER] Current depth: 0
+[PLAYER] Move a7a6 has score -0.36665610027893314
+[PLAYER] Testing move: a7a5
+[PLAYER] Current depth: 0
+[PLAYER] Move a7a5 has score -0.31872413851126563
+[PLAYER] Testing move: b7b6
+[PLAYER] Current depth: 0
+[PLAYER] Move b7b6 has score -0.31397476503859484
+[PLAYER] Testing move: b7b5
+[PLAYER] Current depth: 0
+[PLAYER] Move b7b5 has score -0.31397476503859484
+[PLAYER] Testing move: c7c6
+[PLAYER] Current depth: 0
+[PLAYER] Move c7c6 has score -0.30136664982238087
+[PLAYER] Testing move: c7c5
+[PLAYER] Current depth: 0
+[PLAYER] Move c7c5 has score -0.29413139329806004
+[PLAYER] Testing move: d7d6
+[PLAYER] Current depth: 0
+[PLAYER] Move d7d6 has score -0.23728813559322046
+[PLAYER] Testing move: d7d5
+[PLAYER] Current depth: 0
+[PLAYER] Move d7d5 has score -0.22270837573044172
+[PLAYER] Testing move: e7e6
+[PLAYER] Current depth: 0
+[PLAYER] Move e7e6 has score -0.20671428571428588
+[PLAYER] Testing move: e7e5
+[PLAYER] Current depth: 0
+[PLAYER] Move e7e5 has score -0.20671428571428588
+[PLAYER] Testing move: f7f6
+[PLAYER] Current depth: 0
+[PLAYER] Move f7f6 has score -0.3367521508027838
+[PLAYER] Testing move: f7f5
+[PLAYER] Current depth: 0
+[PLAYER] Move f7f5 has score -0.3255331132562542
+[PLAYER] Testing move: g7g6
+[PLAYER] Current depth: 0
+[PLAYER] Move g7g6 has score -0.31397476503859484
+[PLAYER] Testing move: g7g5
+[PLAYER] Current depth: 0
+[PLAYER] Move g7g5 has score -0.30777482844056897
+[PLAYER] Testing move: h7h6
+[PLAYER] Current depth: 0
+[PLAYER] Move h7h6 has score -0.32646158554310656
+[PLAYER] Testing move: h7h5
+[PLAYER] Current depth: 0
+[PLAYER] Move h7h5 has score -0.3187241385112656
+[PLAYER] Move done in 3
+[ENGINE] Received input: quit
+[GAME] Quitting game
+[ENGINE] Terminating engine
